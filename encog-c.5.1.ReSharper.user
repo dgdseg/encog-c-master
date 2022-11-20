@@ -1,0 +1,76 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="CE50443B-9615-4C66-B9BE-57CD2A99F62A/f:cuda_test.c" caret="1" fromTop="0" />
+      <File id="3DF9CEFF-41CA-46B9-A659-A63C6D19D204/f:util_file.c" caret="778" fromTop="3" />
+      <File id="3DF9CEFF-41CA-46B9-A659-A63C6D19D204/f:vector.c" caret="1945" fromTop="11" />
+      <File id="3DF9CEFF-41CA-46B9-A659-A63C6D19D204/f:util_str.c" caret="2515" fromTop="11" />
+      <File id="3DF9CEFF-41CA-46B9-A659-A63C6D19D204/f:data.c" caret="1201" fromTop="8" />
+      <File id="3DF9CEFF-41CA-46B9-A659-A63C6D19D204/f:errors.c" caret="137" fromTop="6" />
+      <File id="3DF9CEFF-41CA-46B9-A659-A63C6D19D204/f:network_io.c" caret="3190" fromTop="13" />
+      <File id="3DF9CEFF-41CA-46B9-A659-A63C6D19D204/f:network.c" caret="5103" fromTop="17" />
+      <File id="3DF9CEFF-41CA-46B9-A659-A63C6D19D204/f:util.c" caret="6161" fromTop="11" />
+      <File id="CE50443B-9615-4C66-B9BE-57CD2A99F62A/f:encog-cmd.h" caret="223" fromTop="13" />
+      <File id="CE50443B-9615-4C66-B9BE-57CD2A99F62A/f:node.c" caret="108" fromTop="4" />
+      <File id="CE50443B-9615-4C66-B9BE-57CD2A99F62A/f:node_windows.c" caret="0" fromTop="0" />
+      <File id="CE50443B-9615-4C66-B9BE-57CD2A99F62A/f:node_unix.c" caret="89" fromTop="7" />
+      <File id="3DF9CEFF-41CA-46B9-A659-A63C6D19D204/f:encog.c" caret="18" fromTop="0" />
+      <File id="3DF9CEFF-41CA-46B9-A659-A63C6D19D204/f:pso.c" caret="2495" fromTop="103" />
+      <File id="3DF9CEFF-41CA-46B9-A659-A63C6D19D204/f:activation.c" caret="1255" fromTop="10" />
+      <File id="3DF9CEFF-41CA-46B9-A659-A63C6D19D204/f:encog.h" caret="6976" fromTop="16" />
+      <File id="3DF9CEFF-41CA-46B9-A659-A63C6D19D204/f:rprop.c" caret="7067" fromTop="18" />
+      <File id="3DF9CEFF-41CA-46B9-A659-A63C6D19D204/f:errorcalc.c" caret="1922" fromTop="19" />
+      <File id="3DF9CEFF-41CA-46B9-A659-A63C6D19D204/f:nm.c" caret="8150" fromTop="10" />
+      <File id="CE50443B-9615-4C66-B9BE-57CD2A99F62A/f:encog-cmd.c" caret="2511" fromTop="13" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="CE50443B-9615-4C66-B9BE-57CD2A99F62A/f:encog-cmd.c" caret="6630" fromTop="11" />
+      <File id="CE50443B-9615-4C66-B9BE-57CD2A99F62A/f:encog-cmd.c" caret="12821" fromTop="6" />
+      <File id="3DF9CEFF-41CA-46B9-A659-A63C6D19D204/f:errorcalc.c" caret="1925" fromTop="24" />
+      <File id="3DF9CEFF-41CA-46B9-A659-A63C6D19D204/f:errorcalc.c" caret="1925" fromTop="0" />
+      <File id="3DF9CEFF-41CA-46B9-A659-A63C6D19D204/f:encog.h" caret="7065" fromTop="18" />
+      <File id="3DF9CEFF-41CA-46B9-A659-A63C6D19D204/f:nm.c" caret="10149" fromTop="11" />
+      <File id="3DF9CEFF-41CA-46B9-A659-A63C6D19D204/f:nm.c" caret="9123" fromTop="11" />
+      <File id="3DF9CEFF-41CA-46B9-A659-A63C6D19D204/f:nm.c" caret="8777" fromTop="14" />
+      <File id="3DF9CEFF-41CA-46B9-A659-A63C6D19D204/f:nm.c" caret="9641" fromTop="18" />
+      <File id="3DF9CEFF-41CA-46B9-A659-A63C6D19D204/f:nm.c" caret="8708" fromTop="14" />
+      <File id="3DF9CEFF-41CA-46B9-A659-A63C6D19D204/f:nm.c" caret="9551" fromTop="14" />
+      <File id="3DF9CEFF-41CA-46B9-A659-A63C6D19D204/f:nm.c" caret="1077" fromTop="12" />
+      <File id="3DF9CEFF-41CA-46B9-A659-A63C6D19D204/f:nm.c" caret="2365" fromTop="11" />
+      <File id="3DF9CEFF-41CA-46B9-A659-A63C6D19D204/f:nm.c" caret="3851" fromTop="11" />
+      <File id="3DF9CEFF-41CA-46B9-A659-A63C6D19D204/f:nm.c" caret="5190" fromTop="11" />
+      <File id="3DF9CEFF-41CA-46B9-A659-A63C6D19D204/f:nm.c" caret="6352" fromTop="11" />
+      <File id="3DF9CEFF-41CA-46B9-A659-A63C6D19D204/f:nm.c" caret="8015" fromTop="11" />
+      <File id="3DF9CEFF-41CA-46B9-A659-A63C6D19D204/f:nm.c" caret="7851" fromTop="4" />
+      <File id="3DF9CEFF-41CA-46B9-A659-A63C6D19D204/f:nm.c" caret="2596" fromTop="11" />
+      <File id="3DF9CEFF-41CA-46B9-A659-A63C6D19D204/f:nm.c" caret="4108" fromTop="11" />
+      <File id="3DF9CEFF-41CA-46B9-A659-A63C6D19D204/f:nm.c" caret="5560" fromTop="11" />
+      <File id="3DF9CEFF-41CA-46B9-A659-A63C6D19D204/f:nm.c" caret="10324" fromTop="11" />
+      <File id="3DF9CEFF-41CA-46B9-A659-A63C6D19D204/f:nm.c" caret="785" fromTop="19" />
+      <File id="3DF9CEFF-41CA-46B9-A659-A63C6D19D204/f:nm.c" caret="862" fromTop="16" />
+      <File id="3DF9CEFF-41CA-46B9-A659-A63C6D19D204/f:nm.c" caret="785" fromTop="21" />
+      <File id="3DF9CEFF-41CA-46B9-A659-A63C6D19D204/f:nm.c" caret="862" fromTop="14" />
+      <File id="3DF9CEFF-41CA-46B9-A659-A63C6D19D204/f:nm.c" caret="343" fromTop="10" />
+      <File id="3DF9CEFF-41CA-46B9-A659-A63C6D19D204/f:nm.c" caret="283" fromTop="11" />
+      <File id="CE50443B-9615-4C66-B9BE-57CD2A99F62A/f:encog-cmd.c" caret="2259" fromTop="7" />
+      <File id="CE50443B-9615-4C66-B9BE-57CD2A99F62A/f:encog-cmd.c" caret="2511" fromTop="13" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.3\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>
